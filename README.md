@@ -16,7 +16,7 @@ d'identifier les écarts par rapport aux objectifs fixés et de proposer des rec
       Insights Majeurs
   Saisonnalité : Une sous-performance marquée a été identifiée entre avril et octobre 2018, suivie d'un pic de croissance de +20% en janvier 2019.
   Rentabilité : Malgré des volumes de ventes importants, la catégorie "Tables" présente un déficit de marge systématique dans certaines villes comme Pune.
-  Optimisation : Recommandation d'ajuster les objectifs (Targets) de manière saisonnière plutôt que linéaire.
+  Optimisation : Recommandation d'ajuster les objectifs (Targets) de manière saisonnière plutôt que linéaire et stoper la vente de tables dans certaines villes.
 
 
 
